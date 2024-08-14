@@ -1,2 +1,13 @@
-# public_black_page
- 
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
